@@ -49,4 +49,4 @@ Kamu dapat menyesuaikan sensitivitas sistem dengan mengubah variabel berikut di 
 - `padding_x` dan `padding_y` (di dalam fungsi potong_mata): Saat ini disetel ke `5` pixel untuk menyesuaikan dengan dataset *training* asli (fokus pada bola mata).
 
 ## Note
-Anda juga bisa melihat notebook yang kami gunakan dalam melatih model ini jika kedepannya ingin melakukan tuning terhadap model nya jika dianggap kurang memuaskan terhadap model nya
+Anda juga bisa melihat notebook yang kami gunakan dalam melatih model ini jika kedepannya ingin melakukan tuning terhadap model nya jika dianggap kurang memuaskan terhadap model yang sudah kami buat

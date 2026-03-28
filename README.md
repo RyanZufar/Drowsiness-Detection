@@ -1,4 +1,4 @@
-# Real-Time Drowsiness Detection (Custom CNN + MediaPipe)
+# Real-Time Drowsiness Detection (CNN + MediaPipe)
 
 Sistem Deteksi Kantuk (Drowsiness Detection) *real-time* menggunakan **Python, OpenCV, MediaPipe** dengan arsitektur **CNN** yang ringan. 
 

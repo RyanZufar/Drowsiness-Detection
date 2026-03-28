@@ -37,7 +37,7 @@ Kami menggunakan dataset [Drowsiness Detection](https://www.kaggle.com/datasets/
 1. Pastikan file model `drowsiness_CNNmodel.h5` dan file audio alarm `FAHHH (Meme Sound Effect).mp3` berada di folder yang sama dengan *script* utama.
 2. Jalankan program dengan perintah:
     
-    Script.py
+    Python Script.py
 
 3. Kamera akan terbuka. Sistem akan langsung mendeteksi wajah dan dalam terminal akan muncul akurasi dari model untuk hasil derteksi kedua mata dalam setiap frame yg diambil.
 4. **Tekan tombol `q`** pada *keyboard* untuk keluar dan mematikan program.

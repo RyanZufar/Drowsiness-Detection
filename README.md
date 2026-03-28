@@ -13,7 +13,7 @@ Kami menggunakan dataset [Drowsiness Detection](https://www.kaggle.com/datasets/
 - **👀 Precision Eye Tracking:** Menggunakan *MediaPipe Face Mesh* untuk melacak titik koordinat mata secara dinamis dan akurat, bahkan dalam keadaan kepala bergerak.
 - **⏱️ Logika Microsleep:** Dilengkapi sistem *Frame Buffer* untuk mencegah *False Alarm* saat pengguna hanya berkedip normal. Alarm hanya berbunyi jika mata tertutup selama beberapa *frame* berturut-turut (indikasi *microsleep*).
 
-## requirements Sistem
+## Requirements Sistem
 - **Python:** Versi 3.10 atau 3.11 (Direkomendasikan agar kompatibel dengan TensorFlow 2.15).
 - Webcam yang berfungsi dengan baik.
 
@@ -24,9 +24,10 @@ Kami menggunakan dataset [Drowsiness Detection](https://www.kaggle.com/datasets/
 2. **Buat Virtual Environment (Direkomendasikan)**
    
     python -m venv env
+   
     env\Scripts\activate
 
-3. **Install Dependencies**
+4. **Install Dependencies**
     Install semua library yang dibutuhkan melalui requirements.txt:
     
     pip install -r requirements.txt
